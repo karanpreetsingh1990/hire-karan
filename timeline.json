@@ -1,0 +1,44 @@
+[
+  {
+    "title": "IT Manager, Aon Consulting Pvt. Ltd.",
+    "content": "Lead the team and technology related to Observability.Design, Implement and Own Infrastructure/Application Monitoring Tools and Event Management Platform. Automate processes and reduce toil where possible.",
+    "icon": "./images/aon_logo.png",
+    "key": "red",
+    "sub_title": "Apr 2023 -"
+  },
+  {
+    "title": "IT Lead, Aon Consulting Pvt. Ltd.",
+    "content": "Design, Implement and Own Infrastructure and Application Monitoring Toolsalong with Event Management Platform. Automate processes and reduce toil where possible.",
+    "icon": "./images/aon_logo.png",
+    "key": "red",
+    "sub_title": "Apr 2021 - Apr 2023"
+  },
+  {
+    "title": "System Administrator, Aon Consulting Pvt. Ltd.",
+    "content": "Own Infrastructure and Application Monitoring Tools along with Event Management Platform. Automate processes and reduce toil where possible.",
+    "icon": "./images/aon_logo.png",
+    "key": "red",
+    "sub_title": "Jun 2016 - Apr 2021"
+  },
+  {
+    "title": "Senior Analyst, Scope International Pvt. Ltd.",
+    "content": "Own Event Management and Synthetic Monitoring platform and design integrations for various event sources.",
+    "icon": "./images/sc.jpg",
+    "key": "blue",
+    "sub_title": "Apr 2015 - Jun 2016"
+  },
+  {
+    "title": "Analyst, Scope International Pvt. Ltd.",
+    "content": "Manage Event Management and Synthetic Monitoring platform and design integrations for various event sources.",
+    "icon": "./images/sc.jpg",
+    "key": "blue",
+    "sub_title": "Nov 2012 - Apr 2015"
+  },
+  {
+    "title": "Graduate Engineer Trainee, Scope International Pvt. Ltd.",
+    "content": "Shadow and learn how monitoring and event management technologies help support the infrastructure of a large organization.",
+    "icon": "./images/sc.jpg",
+    "key": "blue",
+    "sub_title": "Jun 2012 - Nov 2012"
+  }
+]
