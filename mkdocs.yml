@@ -1,0 +1,15 @@
+site_name: Hire Karan
+nav:
+  - Home: overview.md
+  - Professional Timeline: timeline.md
+  - Certifications: certifications.md
+  - Education: education.md
+
+theme: material
+
+markdown_extensions:
+  - neoteroi.timeline
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+  - css/neoteroi-timeline.css
