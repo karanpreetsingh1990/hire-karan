@@ -1,0 +1,42 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Mkdocs Build and deploy
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.14
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.14"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mkdocs neoteroi-mkdocs mkdocs-material mkdocs-dracula-theme
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: mkdocs build step
+      run: |
+        # stop the build if there are Python syntax errors or undefined names
+        mkdocs build
+    - name: Upload static site content
+      uses: actions/upload-artifact@v4
+      with:
+        name: static-site
+        path: site
+    - name: Deploy to pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: site
+      
