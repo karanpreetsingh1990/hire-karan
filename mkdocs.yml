@@ -1,6 +1,6 @@
 site_name: Hire Karan
 nav:
-  - Home: overview.md
+  - Home: index.md
   - Professional Timeline: timeline.md
   - Certifications: certifications.md
   - Education: education.md
