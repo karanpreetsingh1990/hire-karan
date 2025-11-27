@@ -4,12 +4,38 @@ nav:
   - Professional Timeline: timeline.md
   - Certifications: certifications.md
   - Education: education.md
+  - How this site works?: explain-this.md
 
-theme: material
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
 
 markdown_extensions:
   - neoteroi.timeline
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
+  - admonition
+  - pymdownx.details
 
 extra_css:
   - css/neoteroi-mkdocs.css
   - css/neoteroi-timeline.css
+
+plugins:
+  - search:
+      indexing: "full"
