@@ -204,4 +204,4 @@ I'll be adding the rest of the steps here but in case you're not willing to wait
 
 Everything that's needed for you to create your own profile is available in the repository.
 
-Happy Tails!!
+Happy Trails!!
