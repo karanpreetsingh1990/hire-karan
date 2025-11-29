@@ -20,11 +20,12 @@ Site Reliability Engineering |	Expert
 ServiceNow ITOM	 | Expert
 AIOps	| Expert
 AppDynamics |	Advanced
-Python Scripting |	Expert
+Python |	Expert
 REST APIs	| Expert
 Kubernetes |	Advanced
 Docker |	Expert
 MoogSoft	| Expert
+Azure | Advanced
 CI/CD(Azure Devops) |	Advanced
 Infrastructure as Code (IaC) |	Advanced
 Logging	| Advanced
