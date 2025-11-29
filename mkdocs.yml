@@ -8,6 +8,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -36,6 +37,9 @@ extra_css:
   - css/neoteroi-mkdocs.css
   - css/neoteroi-timeline.css
 
+extra_javascript:
+  - javascript/newrelic-browser.js
+
 plugins:
   - search:
-      indexing: "full"
+      lang: en
