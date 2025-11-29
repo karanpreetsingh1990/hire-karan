@@ -27,7 +27,8 @@ Docker |	Expert
 MoogSoft	| Expert
 Azure | Advanced
 CI/CD(Azure Devops) |	Advanced
-Infrastructure as Code (IaC) |	Advanced
+CI/CD(Github Actions) | Advanced
+Infrastructure as Code (Terraform) |	Advanced
 Logging	| Advanced
 
 ## More 
