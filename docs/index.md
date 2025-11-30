@@ -12,9 +12,7 @@
 
 ## About Me
 
-Experienced Site Reliability Engineer with over 13 years in Enterprise Monitoring, DevOps, Automation, and Infrastructure as Code. Expert in Application Performance Monitoring, Infrastructure Monitoring, Event Management and Automation using Python and tools like Grafana, Docker, Kubernetes, and ServiceNow. Proven track record in designing and implementing solutions like New Relic, AppDynamics, Zabbix, MoogSoft, and ServiceNow ITOM, with a focus on automation to minimize operational overhead. Skilled in creating robust architectures and seamless integrations to enhance system reliability and performance.
-
-Seasoned Site Reliability Engineer with over 13 years of extensive experience in **Enterprise Monitoring**, **DevOps**, **Automation** and **Infrastructure as Code**. Proven expertise in **Application Performance Monitoring**, **Event Management**, and automation using **Python**, **Bash**, **PowerShell**, and tools such as **Grafana**, **Docker**, **Kubernetes**, and **ServiceNow**. Designed and implemented various Enterprise solutions including, **New Relic**, **Zabbix**, **MoogSoft**, **ServiceNow ITOM** and more while focusing on automation to ensure minimal administrative and operational overhead during transitions. Adept at designing robust architectures and seamless integrations that enhance system reliability and performance.
+Experienced Site Reliability Engineer with over 13 years in **Enterprise Monitoring, DevOps, Automation, and Infrastructure as Code**. Expert in **Application Performance Monitoring, Infrastructure Monitoring, Event Management** and **Automation using Python** and tools like **Grafana, Docker, Kubernetes, and ServiceNow**. Proven track record in designing and implementing solutions like **New Relic, AppDynamics, Zabbix, MoogSoft, and ServiceNow ITOM**, with a focus on automation to minimize operational overhead. Skilled in creating robust architectures and seamless integrations to enhance system reliability and performance.
 
 ## Technical Skills
 
