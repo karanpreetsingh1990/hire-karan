@@ -4,7 +4,7 @@ Before we delve into how this works and the steps involved into recreating this,
 
 ## Why Create this?
 
-This site was created as a personal profile to showcase some of not only the skills I possess, work with, wanted to highlight but also some skills that I wanted to learn and had been putting off. The project and it's entire codebase can also be cloned and used by others wanting to use this project for learning or just wanting to create a profile site to showcase their skills with some updates.
+This site was created as a personal profile to showcase not only some of the skills I possess, work with, wanted to highlight but also some skills that I wanted to learn and had been putting off. The project and it's entire codebase can also be cloned and used by others wanting to use this project for learning or just wanting to create a profile site to showcase their skills with some updates.
 
 The creation of this site includes the use of but is not limited to the following skills:
 
