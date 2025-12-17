@@ -8,7 +8,7 @@
 
 [Repo for this Site](https://github.com/karanpreetsingh1990/hire-karan)
 
-[How this site workw?](./explain-this.md)
+[How this site works?](./explain-this.md)
 
 ## About Me
 
